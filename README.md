@@ -15,7 +15,7 @@
 6. 🍉 [博客皮肤](https://github.com/gitldy1013/vuepress-theme-ldy)
 7. 🍉 [GO语言学习项目](https://github.com/gitldy1013/golearn)
 8. 🍉 [短信转发服务端项目](https://github.com/gitldy1013/smsposterpro)
-9. 🍉 [短信转发服务端项目](https://github.com/gitldy1013/SMSPoster-Pro)
+9. 🍉 [短信转发客户端项目](https://github.com/gitldy1013/SMSPoster-Pro)
 10. 🍉 [微服务博客系统后端项目](https://github.com/gitldy1013/beautiful-leg)
 11. 🍉 [微服务博客系统前端项目](https://github.com/gitldy1013/frontend)
 12. 🍉 [springboot知识点总结](https://github.com/gitldy1013/SpringBoot-learn)
