@@ -21,6 +21,6 @@
 12. 🍉 [微服务博客系统前端项目](https://github.com/gitldy1013/frontend)
 13. 🍉 [springboot知识点总结](https://github.com/gitldy1013/SpringBoot-learn)
 14. 🍉 [bilibili-helper快速升级](https://github.com/gitldy1013/bilibili-helper-pro)
-15. 🍉 [python编写的简单excel文件数据梳理整理工具](https://github.com/gitldy1013/doExcel)
+15. 🍉 [python编写的简单excel数据整理工具](https://github.com/gitldy1013/doExcel)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitldy1013&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
