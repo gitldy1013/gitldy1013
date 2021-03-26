@@ -23,5 +23,6 @@
 14. 🍉 [bilibili-helper快速升级](https://github.com/gitldy1013/bilibili-helper-pro)
 15. 🍉 [python编写的简单excel数据整理工具](https://github.com/gitldy1013/doExcel)
 16. 🍉 [微服务模块化服务方案](https://github.com/gitldy1013/dubboSpringCloud)
+17. 🍉 [微服务模块化服务演示](http://nacos.liudongyang.top:8081)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitldy1013&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
