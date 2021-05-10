@@ -1,4 +1,4 @@
-![一条有梦想的咸鱼](https://www.liudongyang.top/myself.jpg)
+![一条有梦想的咸鱼](https://liudongyang.top/myself.jpg)
 
 > **咸鱼怎么了？咸鱼也有梦想 ！**
 
@@ -7,10 +7,10 @@
 期待和大家共同进步～
 
 
-1. 🍓 [个人博客](https://www.liudongyang.top)
+1. 🍓 [个人博客](https://liudongyang.top)
 2. 🍓 [博客皮肤](https://github.com/gitldy1013/vuepress-theme-ldy)
 3. 🍉 [博客园站](https://www.cnblogs.com/ldy-blogs/)
-4. 🍉 [后端导航](https://www.liudongyang.top/tag/)
+4. 🍉 [后端导航](https://liudongyang.top/tag/)
 5. 🍉 [菜鸡钢琴](https://github.com/gitldy1013/piano)
 6. 🍉 [在线爬虫工具](https://github.com/gitldy1013/smsposterpro)
 7. 🍉 [GO语言学习项目](https://github.com/gitldy1013/golearn)
