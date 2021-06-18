@@ -7,7 +7,7 @@
 期待和大家共同进步，关注必回粉～
 
 
-1. 🍓 [个人博客](https://liudongyang.top)
+1. 🍓 [个人博客](https://liudongyang.gitee.io/)
 2. 🍓 [博客皮肤](https://github.com/gitldy1013/vuepress-theme-ldy)
 3. 🍉 [博客园站](https://www.cnblogs.com/ldy-blogs/)
 4. 🍉 [后端导航](https://liudongyang.top/tag/)
