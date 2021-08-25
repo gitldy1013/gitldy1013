@@ -19,9 +19,8 @@
 10. 🍉 [微服务博客系统后端项目](https://github.com/gitldy1013/beautiful-leg)
 11. 🍉 [微服务博客系统前端项目](https://github.com/gitldy1013/frontend)
 12. 🍉 [springboot知识点总结](https://github.com/gitldy1013/SpringBoot-learn)
-13. 🍉 [bilibili-helper快速升级](https://github.com/gitldy1013/bilibili-helper-pro)
-14. 🍉 [excel数据整理python工具](https://github.com/gitldy1013/doExcel)
-15. 🍉 [微服务模块化服务方案](https://github.com/gitldy1013/dubboSpringCloud)
-16. ❤️ [进行时...](http://maoweiwei.liudongyang.top/love)
+13. 🍉 [excel数据整理python工具](https://github.com/gitldy1013/doExcel)
+14. 🍉 [微服务模块化服务方案](https://github.com/gitldy1013/dubboSpringCloud)
+15. ❤️ [进行时...](http://maoweiwei.liudongyang.top/love)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitldy1013&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
