@@ -21,6 +21,7 @@
 12. 🍉 [springboot知识点总结](https://github.com/gitldy1013/SpringBoot-learn)
 13. 🍉 [excel数据整理python工具](https://github.com/gitldy1013/doExcel)
 14. 🍉 [微服务模块化服务方案](https://github.com/gitldy1013/dubboSpringCloud)
-15. ❤️ [进行时...](http://maoweiwei.liudongyang.top/love)
+15. 🍉 [云网采集控制平台](https://github.com/gitldy1013/scada-back)
+16. ❤️ [进行时...](http://maoweiwei.liudongyang.top/love)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitldy1013&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
